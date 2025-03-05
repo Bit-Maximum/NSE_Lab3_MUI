@@ -9,7 +9,7 @@
 ### Клонирование репозитория:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Bit-Maximum/NSE_Lab3_MUI.git
 cd your-repo-name
 ```
 
